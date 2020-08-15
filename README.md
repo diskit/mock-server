@@ -9,3 +9,5 @@ run.sh
 ```
 run.sh 8081
 ```
+
+see http://wiremock.org/docs/stubbing/
